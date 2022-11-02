@@ -1,7 +1,7 @@
 - 👋 I’m Henrique Cartucho.
 - 👀 I’m 23 years old.
 - 🌱 I’m currently learning kotlin, javascript and Angular.
-- I'm currently working on a project called Smartcampus.
+- At the moment i'm working on a project called Smartcampus.
 - I discovered programming two years ago and since then I have been delighted with what it has to offer. I intend to evolve every day and be ready for new challenges.
 
 <!---
